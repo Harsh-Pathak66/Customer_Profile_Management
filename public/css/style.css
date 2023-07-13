@@ -1,0 +1,23 @@
+#header{
+    background: blue;
+}
+#header ul li a{
+    color: white;
+}
+#header img{
+    width: 85px;
+}
+
+#login{
+    display: flex;
+    height: 620px;
+    align-items: center;
+}
+#login h2{
+    text-align: center;
+}
+
+#mid img{
+    width: 100px;
+    
+}

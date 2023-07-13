@@ -1,0 +1,22 @@
+#login{
+    display: flex;
+    height: 620px;
+    align-items: center;
+}
+#login h2{
+    text-align: center;
+}
+
+#header{
+    background: blue;
+    padding: 15px 0px;
+}
+#header button{
+    float: right;
+}
+#header h2{
+    color: white;
+}
+#mid h2{
+    text-align: center;
+}
